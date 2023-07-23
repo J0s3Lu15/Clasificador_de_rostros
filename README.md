@@ -16,7 +16,9 @@ Instala las bibliotecas necesarias usando el siguiente comando:
 pip install numpy matplotlib scikit-learn
 ```
 Ejecuta el script de reconocimiento facial
+```bash
 python LDA_SVM.py
+```
 
 ## Reconocimiento Facial usando LDA
 ## Resumen
