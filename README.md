@@ -36,3 +36,6 @@ Se emplean las Máquinas de Soporte Vectorial (SVM) para el reconocimiento facia
 
 ## Evaluación
 Al igual que con LDA, el script calculará el F-Score y la matriz de confusión para evaluar el rendimiento del reconocimiento facial basado en SVM. Además, se identificarán individuos con mayor confusión, lo que indica posibles desafíos en el reconocimiento.
+
+## Contactos:
+Si te gusta mi trabajo o estás buscando consultoría para tus proyectos, Pentesting, servicios de RED TEAM - BLUE TEAM, implementación de normas de seguridad e ISOs, controles IDS - IPS, gestión de SIEM, implementación de topologías de red seguras, entrenamiento e implementación de modelos de IA, desarrollo de sistemas, Apps Móviles, Diseño Gráfico, Marketing Digital y todo lo relacionado con la tecnología, no dudes en contactarme al +591 75764248 y con gusto trabajare contigo.
